@@ -1,2 +1,2 @@
 # astonishing-peppers
-A react application to help plan a party! 
+A react application to help plan a party! Work in progress...
